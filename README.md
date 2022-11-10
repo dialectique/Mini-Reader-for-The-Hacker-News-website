@@ -17,7 +17,8 @@
 
   ## Installation
   - It is recommended to use a virtual environment to install this project.
-  - Just fork this repository and use the command lines below.
+  - Fork this repository and install the required librairies from `requirements.txt`
+  - Use the command lines below.
 
   ### Usage:
 
