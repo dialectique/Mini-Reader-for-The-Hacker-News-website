@@ -1,0 +1,6 @@
+# CS50’s Introduction to Programming with Python
+# Final Project: `Mini Reader for The Hacker News website`
+# Required librairies list
+
+tabulate
+beautifulsoup4
