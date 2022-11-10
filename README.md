@@ -12,7 +12,7 @@
   with Python` course from Harvard University.
   https://cs50.harvard.edu/python/2022/project/
 
-  Link to `The Haker News` website: https://thehackernews.com/
+  Link to `The Hacker News` website: https://thehackernews.com/
 
 
   ## Installation
