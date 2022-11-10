@@ -16,9 +16,9 @@
 
 
   ## Installation
-  - It is recommended to use a virtual environment to install this project.
+  - It is recommended to use a virtual environment to install this project
   - Fork this repository and install the required librairies from `requirements.txt`
-  - Use the command lines below.
+  - Use the command lines below
 
   ### Usage:
 
@@ -61,7 +61,7 @@
   ```
 
 ### Files description:
-  - `project.py` : this file contains all the code of the command line tool.
+  - `project.py` : this file contains all the code of the command line tool
 
   - `test_project.py` : this file contains all the tests for project.py, using `pytest`
 
