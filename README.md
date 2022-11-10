@@ -65,6 +65,6 @@
 
   - `test_project.py` : this file contains all the tests for project.py, using `pytest`
 
-  - `the_hacker_news.db` : sqlite3 database containg `the_haker_news.db` articles data (date, title and url)
-
   - `requirements.txt` : required libraries
+
+  - `the_hacker_news.db` sqlite3 database path is set by using the global variable `DB_PATH` in `project.py`. By default, `the_hacker_news.db` will be created at the root of the project.
