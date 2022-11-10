@@ -6,13 +6,18 @@
 
   The user can display in the terminal the list of the `thehackernews.com` homepage articles.
   He can also save any article data (date, title and url) in a local sqlite3 database.
-  Finally, the user can display the content of this database and read article by clicking on the url and delete the non relevant article.
+  Finally, the user can display the content of this database, read articles by clicking on the associated urls and delete the non relevant articles.
 
   This is the final project of the `CS50’s Introduction to Programming
   with Python` course from Harvard University.
   https://cs50.harvard.edu/python/2022/project/
 
   Link to `The Haker News` website: https://thehackernews.com/
+
+
+  ## Installation
+  - It is recommended to use a virtual environment to install this project.
+  - Just fork this repository and use the command lines below.
 
   ### Usage:
 
