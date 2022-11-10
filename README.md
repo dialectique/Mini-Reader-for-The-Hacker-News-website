@@ -2,7 +2,7 @@
 #### Video Demo: <https://youtu.be/rOTgbj21BLI>
 #### Description:
   Save time, manage and read more articles from `The Haker News` website
-  with this simple command line tool.
+  with this simple command line app.
 
   The user can display in the terminal the list of the `thehackernews.com` homepage articles.
   He can also save any article data (date, title and url) in a local sqlite3 database.
